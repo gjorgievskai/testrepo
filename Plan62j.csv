@@ -1,0 +1,149 @@
+#;Projekt;Tracker;Übergeordnete Aufgabe;Status;Priorität;Thema;Autor;Zugewiesen an;Aktualisiert;Kategorie;Zielversion;Beginn;Abgabedatum;Geschätzter Aufwand;Summe des geschätzten Aufwands;% erledigt;Angelegt;Geschlossen am;Zuletzt geändert von;Zugehörige Tickets;Dateien;Sto-Name;Sto-Nr;Position;NE-Nr.;TCT-ID;Telefonica-PO;BestellNr.;Preis in EUR;TCT-PO;Festnetzplaner;Auftraggeber;Leistung;MP_Bezeichnung;Objekt-ID;Objekt-Art;MP_ID;Weitere NE am Sto;Xakta import;Eigene Bemerkungen;Ist_Stx50;Ist_Stx49l;Plan_Stx74;Ist_Stx42l;Ist_Stx62j;Ist_Stx62w;Plan_Stx71;St82_Ist;Ist_Stx73a;Beschreibung;Letzte Kommentare
+246330;T11;Neubau;;Neu;Normal;114290074A;Ticket Importer;;12.10.2021 09:42;;;02.07.2021;30.09.2021;;0;0;02.07.2021 09:24;;Ticket Importer;;;GESaterlandEPlusMast;126991807;TCT_MBHS_1b_4.4.3;114290074A;202645;9403628898;9403628898;440;;;TCT;Planung LLD;HLP_ALPHA_1_Friesland-Emsland\BA2_436_100012117;701116997;Sonstige Erweiterung;100012117;;;Platz für Bemerkungen..;;;;;;;;;;"Ist_Stx48: 
+Plan_Stx62j: 29.10.2021
+Ist_Stx62j: 
+Ist_Stx62w: 
+Ist_Stx62r: 
+Stx62r_Bemerkung: 
+";
+263217;T11;Neubau;;Neu;Sofort;203290256A;Ticket Importer;Volker Timm;12.10.2021 09:41;;;02.09.2021;01.03.2022;;0;0;02.09.2021 14:12;;Ticket Importer;;;JenaLobedaOst;207990022;TCT_MBHS_1b_4.4.3;203290256A;208372;9403722178;9403722178;440;;;TCT;Planung LLD;HLP_ALPHA_2_Versatel_Jena_2020_539_100019726;700815505;Aufbau;100019726;;;Prio. TCT KW37;;;;;;;;;;"Ist_Stx48: 
+Plan_Stx62j: 27.10.2021
+Ist_Stx62j: 
+Ist_Stx62w: 
+Ist_Stx62r: 
+Stx62r_Bemerkung: 
+";
+261095;T11;Storno;;Erledigt;Sofort;203790021A;Ticket Importer;Volker Timm;15.10.2021 10:58;;;20.08.2021;22.10.2021;;0;100;20.08.2021 14:15;15.10.2021 10:58;Thomas Münse;;;LWLEinstiegHalleAeußereHordorferStr;206991486;TCT_MBHS_1b_4.4.3;203790021A;186894;9403330430;9403330430;440;;;TCT;Planung LLD;HLP_ALPHA_2_Halle_Leipzig_MBH_NG_Cluster_B_035_684_100024917;701008731;Sonstige Erweiterung;100024917;;;"Dear Andreas, Dears All,
+
+The NE will be built and integrated once the DF is delivered.
+
+
+
+Zuständige_Region
+	MP_Bezeichnung	SO_Nr_Strecke	NE_Nr	NE_Typ	POC_Projekt	MP_ID	MP_Stand	Objekt_ID
+Region Nord-Ost	HLP_ALPHA_2_Halle_Leipzig_MBH_NG_Cluster_B_035_684_100024917	206990108_206991486	266607770	60	 	100024917	Aktiv	266607770
+
+
+Best Regards.
+
+
+
+
+Yaman Alshurbaji
+
+TCT TechnikCentrumThale GmbH 
+Rheinstraße 17 
+14513 Teltow 
+
+Telefon: 
+Telefax: 
+Mobil: 0152/01675405 
+
+E-Mail: Yaman.Alshurbaji.external@telefonica.com 
+Website: www.tct-thale.de 
+
+ 
+
+TCT TechnikCentrumThale GmbH | Sitz der Gesellschaft: Thale | Amtsgericht Stendal | Registernummer: HRB 103948
+Geschäftsführung: Bernhard Engel, Jan Wragge, Jan-Patrick Göppert
+Von: Andreas Eilers (External) <andreas.eilers.external@telefonica.com> 
+Gesendet: Dienstag, 5. Oktober 2021 09:57
+An: Markus Quast (External) <markus.quast.external@telefonica.com>; Yaman Alshurbaji (External) <yaman.alshurbaji.external@telefonica.com>; Michael Adam (External) <michael.adam.external@telefonica.com>
+Cc: Bert Hoegel <bert.hoegel@telefonica.com>; Tobias Bruckmann (External) <tobias.bruckmann.external@telefonica.com>; Swen Halupka <swen.halupka@tct-thale.de>
+Betreff: AW: 701008731 am 203790021 Halle für MP NGN Halle
+
+?.liegt im MP: HLP_ALPHA_2_Halle_Leipzig_MBH_NG_Cluster_B_035_684_100024917
+
+Mit Freundlichen Grüssen
+
+Andreas Eilers (extern)
+im Auftrag der DEN GmbH
+c/o Telefonica Germany GmbH & Co.OHG
+Rheinstr. 15; 14513 Teltow
+Telefon +49 (0) 30 2369 2931
+M +49 171 / 12 83 198
+E-Mail-Adresse andreas.eilers.external@telefonica.com
+
+Von: Markus Quast (External) 
+Gesendet: Dienstag, 5. Oktober 2021 09:44
+An: Yaman Alshurbaji (External) <yaman.alshurbaji.external@telefonica.com>; Michael Adam (External) <michael.adam.external@telefonica.com>
+Cc: Bert Hoegel <bert.hoegel@telefonica.com>; Andreas Eilers (External) <andreas.eilers.external@telefonica.com>; Tobias Bruckmann (External) <tobias.bruckmann.external@telefonica.com>; Swen Halupka <swen.halupka@tct-thale.de>
+Betreff: AW: 701008731 am 203790021 Halle für MP NGN Halle
+
+Hallo Yaman, 
+
+dieses Projekt 701008731 am 203790021  wird jetzt MP NGN Halle zugeordnet.
+
+@Michael Adam (External)
+
+PO liegt bereit bei euch.
+
+
+Gruß Markus
+
+
+
+
+
+Von: Bert Hoegel <bert.hoegel@telefonica.com> 
+Gesendet: Montag, 4. Oktober 2021 14:04
+An: Markus Quast (External) <markus.quast.external@telefonica.com>; Andreas Eilers (External) <andreas.eilers.external@telefonica.com>
+Betreff: 701008731 am 203790021 Halle für MP NGN Halle
+
+Hallo Andreas, 
+bitte den MP zuordnen?
+Halle Markus, 
+bitte mit realisieren?Beauftragung ist schon lange bei Euch, aber eben kein MP?! Wird im NGN Halle benötigt!
+Gruß Bert
+
+Dipl.-Ing. Bert Hoegel | Telefónica Germany GmbH & Co. OHG
+Regional Transport HL ? Planning North/East
+NT - Transport & Fixed Access 
+Rheinstraße 15, 14513 Teltow
+M +49 (0)177 4414 314 | T +49 (0)30 23691453
+bert.hoegel@telefonica.com | www.telefonica.de
+Bitte finden Sie hier die handelsrechtlichen Pflichtangaben: www.telefonica.de/pflichtangaben
+
+";;;;;;;;;;"Ist_Stx48: 
+Plan_Stx62j: 22.10.2021
+Ist_Stx62j: 
+Ist_Stx62w: 
+Ist_Stx62r: 
+Stx62r_Bemerkung: 
+";
+269643;T11;Neubau;;Neu;Normal;202791692A;Ticket Importer;;12.10.2021 09:40;;;29.09.2021;28.03.2022;;0;0;29.09.2021 15:15;;Ticket Importer;Beziehung mit #269601;;A10Fahlhorst;214991050;TCT_MBHS_1b_4.4.1;202791692A;209431;9403765361;9403765361;520;;;TCT;Planung LLD;HLP_ALPHA_2_MBH_NG_Stahnsdorf-Fichtenwalde\BA1_715_100025082;700862190;Aufbau;100025082;;;Platz für Bemerkungen..;;;;;;;;;;"Ist_Stx48: 
+Plan_Stx62j: 27.10.2021
+Ist_Stx62j: 
+Ist_Stx62w: 
+Ist_Stx62r: 
+Stx62r_Bemerkung: 
+";
+252489;T11;Neubau;;Neu;Sofort;114790199A;Ticket Importer;Atefeh Navvabi;12.10.2021 09:41;;;28.07.2021;12.08.2021;;0;0;28.07.2021 15:12;;Ticket Importer;;;Cuxhaven;127991649;TCT_FSC_B_3.3.3;114790199A;205254;9403671933;9403671933;440;;;TCT;Planung LLD;HLP_ALPHA_1_Cuxhaven-Stickenbüttel_Dorfstr. 80 (FTTS)_777_100025678;701117561;Sonstige Erweiterung;100025678;;;Prio. TCT KW37;;;;;;;;;;"Ist_Stx48: 
+Plan_Stx62j: 27.10.2021
+Ist_Stx62j: 
+Ist_Stx62w: 
+Ist_Stx62r: 
+Stx62r_Bemerkung: 
+";
+173470;T11;Neubau;;Neu;Normal;203290035A;Ticket Importer;M A;12.10.2021 09:44;;;11.01.2021;11.04.2021;;0;0;11.01.2021 12:10;;Ticket Importer;;;LWLEinstiegDresden;201991133;TCT_MBHS_1b_4.4.3;203290035A;187824;9403353347;9403353347;440;;;TCT;Planung LLD;HLP_ALPHA_2_MBH_GL_Raum_Dresden_903_100027679;701010382;Sonstige Erweiterung;100027679;;;Prio. TCT KW37;;;;;;;;;;"Ist_Stx48: 
+Plan_Stx62j: 29.10.2021
+Ist_Stx62j: 
+Ist_Stx62w: 
+Ist_Stx62r: 
+Stx62r_Bemerkung: 
+";
+252929;T11;Neubau;;Neu;Sofort;202797229A;Ticket Importer;Volker Timm;12.10.2021 09:41;;;02.08.2021;29.01.2022;;0;38;02.08.2021 16:11;;Ticket Importer;;;ZahnaElster;206990870;TCT_MBHS_1b_4.4.1;202797229A;205601;9403674761;9403674761;520;;;TCT;Planung LLD;HLP_ALPHA_2_Wittenberg_Spange_Ost_1059_100030995;700998396;Aufbau;100030995;;;Prio. TCT KW37;;;;;;;;;;"Ist_Stx48: 
+Plan_Stx62j: 27.10.2021
+Ist_Stx62j: 
+Ist_Stx62w: 
+Ist_Stx62r: 
+Stx62r_Bemerkung: 
+";
+245498;T11;Neubau;;Neu;Sofort;202290488A;Ticket Importer;Volker Timm;29.09.2021 09:26;;;24.06.2021;09.07.2021;;0;38;24.06.2021 14:31;16.09.2021 17:02;Volker Timm;;;Elster;206990870;TCT_MBHS_1b_4.4.3;202290488A;202346;9403674740;9403674740;440;;;TCT;Planung LLD;HLP_ALPHA_2_Wittenberg_Spange_Ost_1059_100030995;700899927;Aufbau;100030995;;;Platz für Bemerkungen..;;;;;;;;;;;
+265266;T11;Neubau;;Neu;Sofort;203290114A;Ticket Importer;Volker Timm;12.10.2021 09:40;;;17.09.2021;02.10.2021;;0;38;17.09.2021 11:15;;Ticket Importer;;;AGGZwoenitzDittersdorferStr26;208990255;TCT_MBHS_1b_4.4.3;203290114A;209232;9403743931;9403743931;440;;;TCT;Planung LLD;HLP_ALPHA_2_Standortwechsel_Auerbach(Erzgebirge)_1072_100031079;701133454;Sonstige Erweiterung;100031079;;;Platz für Bemerkungen..;;;;;;;;;;"Ist_Stx48: 
+Plan_Stx62j: 29.10.2021
+Ist_Stx62j: 
+Ist_Stx62w: 
+Ist_Stx62r: 
+Stx62r_Bemerkung: 
+";
